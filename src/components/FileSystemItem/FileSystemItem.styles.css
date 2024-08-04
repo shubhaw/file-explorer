@@ -1,0 +1,25 @@
+.file-system-list,
+.file-system-list-item {
+  list-style: none;
+  text-align: start;
+  padding-left: 10px;
+}
+
+.file-system-list {
+  margin-left: 7px;
+  border-left: 1px solid gray;
+}
+.node-name-container {
+  display: flex;
+  gap: 7px;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.chevron-btn {
+  background: #0000;
+  width: 16px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
